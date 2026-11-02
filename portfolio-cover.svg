@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed AlFadil Khalid — Digital Portfolio</title>
+  <desc id="desc">Brand strategy, digital experiences and business solutions.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102b36"/><stop offset="1" stop-color="#07151e"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#46d3ba"/><stop offset="1" stop-color="#46d3ba" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <g fill="none" stroke="#52c7b6" stroke-opacity=".14">
+    <circle cx="1140" cy="60" r="120"/><circle cx="1140" cy="60" r="185"/><circle cx="1140" cy="60" r="250"/>
+    <path d="M930 330 1200 60M1030 330 1200 160"/>
+  </g>
+  <rect x="58" y="53" width="28" height="3" rx="1.5" fill="#58dcc5"/>
+  <text x="101" y="61" fill="#83d7c8" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">SELECTED WORK &amp; DIGITAL SOLUTIONS</text>
+  <text x="56" y="145" fill="#f2f6f7" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="600" letter-spacing="-1.5">Mohammed AlFadil Khalid</text>
+  <text x="59" y="191" fill="#a8bec6" font-family="Segoe UI,Arial,sans-serif" font-size="22">Designing brands. Building digital experiences.</text>
+  <path d="M60 230H870" stroke="url(#line)"/>
+  <text x="59" y="277" fill="#d1dedf" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">BRAND STRATEGY</text>
+  <circle cx="254" cy="271" r="2" fill="#5ed7c0"/>
+  <text x="281" y="277" fill="#d1dedf" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">WEB &amp; COMMERCE</text>
+  <circle cx="489" cy="271" r="2" fill="#5ed7c0"/>
+  <text x="516" y="277" fill="#d1dedf" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">BUSINESS SYSTEMS</text>
+  <circle cx="735" cy="271" r="2" fill="#5ed7c0"/>
+  <text x="762" y="277" fill="#d1dedf" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">DIGITAL GROWTH</text>
+</svg>
